@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringGr4856-main/Seminar1/GB_Spring-master/seminar_1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4856-main/Seminar1/GB_Spring-master/seminar_2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4856-main/Seminar2/Exam1Sem2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4856-main/Seminar2/Exam2Sem2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4856-main/Seminar2/Exam3Sem2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4856-main/Seminar2/Exam4Sem2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4856-main/Seminar2/CRUDSpringWeb/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4856-main/Seminar3/sem3exampl1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4856-main/Seminar3/sem3HomeTask/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4856-main/Seminar3/sem3example2REST/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringGr4856-main/Seminar3/Sem3example3_scope/sq-ch9-ex3/pom.xml" />
+        <option value="$PROJECT_DIR$/springDz/Seminar3/sem3HomeTask/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+</project>
